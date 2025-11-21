@@ -2,8 +2,6 @@
 
 A powerful, full-stack web application that generates concise, AI-powered summaries from YouTube videos. Built with the MERN stack (MongoDB, Express, React, Node.js) and powered by Google's Gemini AI.
 
-![Project Banner](https://via.placeholder.com/1200x600?text=YouTube+Transcript+Summarizer)
-
 ---
 
 ## 🚀 Features
@@ -44,7 +42,7 @@ yt-summarizer/
 │   ├── utils/              # Helper functions (transcript fetcher)
 │   └── index.js            # Entry point
 │
-├── yt-summarizer/          # React Frontend
+├── frontend/          # React Frontend
 │   ├── src/
 │   │   ├── components/     # Reusable UI components (Navbar, Footer)
 │   │   ├── pages/          # Page views (Home, Result)
@@ -81,10 +79,10 @@ npm run dev
 
 ### 2. Frontend Setup
 ```bash
-cd yt-summarizer
+cd frontend
 npm install
 ```
-Create a `.env` file in `yt-summarizer/`:
+Create a `.env` file in `frontend/`:
 ```env
 VITE_BASE_URL=/yt-summarizer
 VITE_API_URL=http://localhost:4000
