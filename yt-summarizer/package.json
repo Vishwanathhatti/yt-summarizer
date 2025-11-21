@@ -2,6 +2,7 @@
   "name": "yt-summarizer",
   "private": true,
   "version": "0.0.0",
+  "author": "Vishwanath Hatti",
   "type": "module",
   "scripts": {
     "dev": "vite",
