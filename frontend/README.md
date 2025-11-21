@@ -29,7 +29,7 @@ The frontend client for the YouTube Transcript Summarizer, built with React, Vit
 
 1.  **Navigate to the directory**:
     ```bash
-    cd yt-summarizer
+    cd frontend
     ```
 
 2.  **Install dependencies**:
