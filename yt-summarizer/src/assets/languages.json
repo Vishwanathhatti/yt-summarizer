@@ -1,0 +1,142 @@
+[
+  {
+    "label": "English",
+    "code": "en"
+  },
+  {
+    "label": "Spanish",
+    "code": "es"
+  },
+  {
+    "label": "French",
+    "code": "fr"
+  },
+  {
+    "label": "German",
+    "code": "de"
+  },
+  {
+    "label": "Italian",
+    "code": "it"
+  },
+  {
+    "label": "Portuguese",
+    "code": "pt"
+  },
+  {
+    "label": "Russian",
+    "code": "ru"
+  },
+  {
+    "label": "Chinese (Simplified)",
+    "code": "zh"
+  },
+  {
+    "label": "Chinese (Traditional)",
+    "code": "zh-TW"
+  },
+  {
+    "label": "Japanese",
+    "code": "ja"
+  },
+  {
+    "label": "Korean",
+    "code": "ko"
+  },
+  {
+    "label": "Hindi",
+    "code": "hi"
+  },
+  {
+    "label": "Bengali",
+    "code": "bn"
+  },
+  {
+    "label": "Urdu",
+    "code": "ur"
+  },
+  {
+    "label": "Tamil",
+    "code": "ta"
+  },
+  {
+    "label": "Telugu",
+    "code": "te"
+  },
+  {
+    "label": "Marathi",
+    "code": "mr"
+  },
+  {
+    "label": "Gujarati",
+    "code": "gu"
+  },
+  {
+    "label": "Malayalam",
+    "code": "ml"
+  },
+  {
+    "label": "Kannada",
+    "code": "kn"
+  },
+  {
+    "label": "Arabic",
+    "code": "ar"
+  },
+  {
+    "label": "Turkish",
+    "code": "tr"
+  },
+  {
+    "label": "Persian (Farsi)",
+    "code": "fa"
+  },
+  {
+    "label": "Hebrew",
+    "code": "he"
+  },
+  {
+    "label": "Dutch",
+    "code": "nl"
+  },
+  {
+    "label": "Swedish",
+    "code": "sv"
+  },
+  {
+    "label": "Polish",
+    "code": "pl"
+  },
+  {
+    "label": "Ukrainian",
+    "code": "uk"
+  },
+  {
+    "label": "Vietnamese",
+    "code": "vi"
+  },
+  {
+    "label": "Indonesian",
+    "code": "id"
+  },
+  {
+    "label": "Thai",
+    "code": "th"
+  },
+  {
+    "label": "Filipino (Tagalog)",
+    "code": "tl"
+  },
+  {
+    "label": "Romanian",
+    "code": "ro"
+  },
+  {
+    "label": "Czech",
+    "code": "cs"
+  },
+  {
+    "label": "Greek",
+    "code": "el"
+  }
+]
